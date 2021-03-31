@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hwcrowd02-admin-webui" />
+        <module name="hwcrowd04-admin-entity" />
+        <module name="hwcrowd06-admin-reverse" />
+        <module name="hwcrowd05-admin-util" />
+        <module name="hwcrowd03-admin-component" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hwcrowd01-admin-parent" target="1.8" />
+      <module name="hwcrowd02-admin-webui" target="1.8" />
+      <module name="hwcrowd03-admin-component" target="1.8" />
+      <module name="hwcrowd04-admin-entity" target="1.8" />
+      <module name="hwcrowd05-admin-util" target="1.8" />
+      <module name="hwcrowd06-admin-reverse" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
